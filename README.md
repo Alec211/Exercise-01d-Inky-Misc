@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Alec Albright
 
-# Your Github username
+# Alec211
